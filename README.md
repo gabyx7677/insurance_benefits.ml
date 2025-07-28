@@ -33,5 +33,5 @@ Se implementa un método basado en álgebra lineal para enmascarar la informaci�
 
 **Autor**
 
-Gabriel G. M. – Data Scientist $ Electric Engineer 
+Gabriel G. M. – Data Scientist & Electric Engineer 
 
